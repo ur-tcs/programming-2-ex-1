@@ -4,7 +4,7 @@ The goal of this exercise is to familiarize yourself with the tools and environm
 
 
 ## Obtaining the Exercise Files
-* Clone, fork or download the following repository: `git clone git@github.com:jcailler/programming-2-ex-1.git` or [https://github.com/jcailler/programming-2-ex-1](https://github.com/ur-tcs/programming-2-ex-1.git)
+* Clone, fork or download the following repository: `git clone https://github.com/ur-tcs/programming-2-ex-1.git` or [[https://github.com/jcailler/programming-2-ex-1](https://github.com/ur-tcs/programming-2-ex-1.git)](https://github.com/ur-tcs/programming-2-ex-1.git)
 * This will create a directory named `programming-2-ex-1/` containing the exercise project files `degrees`. You can change your working directory by running the change directory (cd) command: `cd programming-2-ex-1/degrees/`
 
 
