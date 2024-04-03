@@ -1,6 +1,6 @@
 # Programming 2 - Exercise 1 : Scala Basics
 
-The goal of this exercise is to familiarize yourself with the tools and environment of this course by designing some functions related to conversion between Celsius and Fahrenheit degrees. At the end of this exercise, you will have created and modified you first scala project. 
+The goal of this exercise is to familiarize yourself with the tools and environment of this course by designing some functions related to conversion between Celsius and Fahrenheit degrees. At the end of this exercise, you will have created and modified you first scala project. Your are allowed to copy this repository, but please do not share solutions online.
 
 
 ## Obtaining the Exercise Files
