@@ -419,7 +419,7 @@ def shouldIWearAJacketDegreeOrFahrenheit(temperature: Double, unit: String) : St
             then "Yes"
             else "No"
       }
-      else "Unit unknown"
+      else "Unknown unit"
     }
 ```
 
